@@ -1,4 +1,4 @@
-const URL_SCRIPT = "https://github.com/trabalheconosco-dotcom/cadastros.git";
+const URL_SCRIPT = "https://script.google.com/a/macros/comtrasil.com.br/s/AKfycbyBWJxerrdVQMU9vLAIPNdzC_aC83HnXXpRouauCLD9nFHsxZBBig_znVbKy0Xr-D5g/exec";
 
 
 function gerarNumero(){
