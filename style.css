@@ -1,7 +1,7 @@
 body {
 
     font-family: Arial, sans-serif;
-    background: #f2f2f2;
+    background: #0c0c0c;
 
     height: 100vh;
     display: flex;
@@ -85,4 +85,18 @@ button:hover {
 
     font-size: 40px;
 
+}
+
+
+
+
+#comt1{
+    position: relative;
+    width: 20vw;
+    box-sizing: content-box;
+    margin-bottom: 2rem;
+
+}
+#tempo{
+    color: red;
 }
