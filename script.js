@@ -1,4 +1,4 @@
-const URL_SCRIPT = "https://script.google.com/a/macros/comtrasil.com.br/s/AKfycbwC6uniGeZ-cF99Hja1bRWC6suCJY7Y23vyBt9GOKeyRvNrRrRl5Lo2iGU-5xFbvOB_/exec";
+const URL_SCRIPT = "https://script.google.com/macros/s/AKfycbwC6uniGeZ-cF99Hja1bRWC6suCJY7Y23vyBt9GOKeyRvNrRrRl5Lo2iGU-5xFbvOB_/exec";
 
 
 function gerarNumero(){
